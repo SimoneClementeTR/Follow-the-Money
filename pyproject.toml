@@ -1,0 +1,10 @@
+[project]
+name = "follow-the-money"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9.18"
+dependencies = [
+    "networkx>=3.2.1",
+    "pandas>=2.3.2",
+]
